@@ -1,16 +1,28 @@
-## Hi there 👋
+# Aradhya Tripathy
 
-<!--
-**aradhya-tripathy/aradhya-tripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics student at Christ University with a strong foundation in data analysis, econometrics, and business intelligence. Skilled in Python, SQL, Excel, and Power BI, with hands-on experience in time-series modeling, dashboard development, and data-driven decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL)
+- Power BI
+- Excel (Advanced)
+
+---
+
+## Projects
+- Volatility Spillover Analysis using GARCH Models  
+- Sales Analysis & Forecasting (Excel)  
+- Data Analysis using Python  
+
+---
+
+## Areas of Interest
+Data Analytics • Financial Analytics • Predictive Modeling • Business Intelligence
+
+---
+
+## Contact
+LinkedIn: www.linkedin.com/in/aradhya-tripathy
